@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+
+    <string-array name="cities">
+      <item> Nairobi</item>
+      <item> Lagos</item>
+      <item>Cairo </item>
+      <item>Mombasa </item>
+      <item> Kampala</item>
+      <item> London</item>
+      <item>New york </item>
+
+
+    </string-array>
+
+
+</resources>
